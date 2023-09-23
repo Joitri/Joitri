@@ -3,7 +3,7 @@
 <h2>👨‍💻 Game Development Projects:</h2>
 
 - <b>Kill The Dang Thing</b>
-  - ADD IN KILL THE DANG THING
+  - [Kill The Dang Thing](https://github.com/Joitri/KillTheDangThing)
 - <b>VR BlackSmithing</b>
   - ADD IN BlackSmithing
 - <b>Quest of Accension</b>
