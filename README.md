@@ -7,7 +7,7 @@
 - <b>VR BlackSmithing</b>
   - [VR Blacksmithing Game](https://github.com/Joitri/VRBlackSmithingGame)
 - <b>Quest of Accension</b>
-  - ADD IN QoA
+  - [Quest of Ascension](https://github.com/Joitri/QuestOfAscension/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
