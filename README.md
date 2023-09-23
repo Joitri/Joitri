@@ -5,7 +5,7 @@
 - <b>Kill The Dang Thing</b>
   - [Kill The Dang Thing](https://github.com/Joitri/KillTheDangThing)
 - <b>VR BlackSmithing</b>
-  - ADD IN BlackSmithing
+  - [VR Blacksmithing Game](https://github.com/Joitri/VRBlackSmithingGame)
 - <b>Quest of Accension</b>
   - ADD IN QoA
 
