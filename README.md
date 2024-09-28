@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Game Development Projects:</h2>
 
-- <b>Kill The Dang Thing</b>
+- <b>Kill The Dang Thing</b> - Dec 2020
   - [Kill The Dang Thing](https://github.com/Joitri/KillTheDangThing)
-- <b>VR BlackSmithing</b>
+- <b>VR BlackSmithing</b> - January 2021
   - [VR Blacksmithing Game](https://github.com/Joitri/VRBlackSmithingGame)
-- <b>Quest of Accension</b>
+- <b>Quest of Accension</b> - May 2022
+  - [Quest of Ascension](https://github.com/Joitri/QuestOfAscension/tree/main)
+- <b>Elementaire</b> - April 2024
   - [Quest of Ascension](https://github.com/Joitri/QuestOfAscension/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
