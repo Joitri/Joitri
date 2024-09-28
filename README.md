@@ -9,7 +9,7 @@
 - <b>Quest of Accension</b> - May 2022
   - [Quest of Ascension](https://github.com/Joitri/QuestOfAscension/tree/main)
 - <b>Elementaire</b> - April 2024
-  - [Quest of Ascension](https://github.com/Joitri/QuestOfAscension/tree/main)
+  - [Elementaire](https://github.com/Joitri/Elementaire_Profile)
 
 <h2> 🤳 Connect with me:</h2>
 
